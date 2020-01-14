@@ -1,7 +1,5 @@
 # My retrofit example
 
-<img src="https://user-images.githubusercontent.com/25203907/70445444-45f15e80-1a7a-11ea-8cb7-44b6448d5059.jpg"/>
-
 ## About this project
 
 This is my retrofit2 example with Gson.
